@@ -1,51 +1,33 @@
-# Review pull requests
+<div align="center">
 
-_Collaborate with others to refine your work and get suggestions before merging._
+# 🎉 Congratulations wolgank! 🎉
 
-## Welcome
+<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
-All great projects start with collaboration, and pull requests are the foundation of teamwork on GitHub. They give you the ability to asynchronously work together and refine work by commenting, requesting changes, and approving.
+### 🌟 You've successfully completed the exercise! 🌟
 
-- **Who is this for**: Technical Developers, Non-Technical collaborators, students, managers.
-- **What you'll learn**:
-  - How to request a review and assign it.
-  - How to provide a review for someone else's work.
-  - How to suggest changes and approve changes.
-- **What you'll build**: We'll review a pull request for a simple game.
-- **Prerequisites**: We assume you are familiar with content from the [Introduction to GitHub](https://github.com/skills/introduction-to-github) exercise.
-  - Commits
-  - Creating branches and pull requests
-- **How long**: less than 30 minutes
+## 🚀 Share Your Success!
 
-In this exercise, you will:
+**Show off your new skills and inspire others!**
 
-1. Open a pull request
-2. Assign yourself
-3. Leave a review
-4. Suggest changes
-5. Apply changes
-6. Merge your pull request
+<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22Review%20Pull%20Requests%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fwolgank%2Fskills-review-pull-requests%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
+</a>
+<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22Review%20Pull%20Requests%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fwolgank%2Fskills-review-pull-requests%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
+</a>
+<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22Review%20Pull%20Requests%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fwolgank%2Fskills-review-pull-requests%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
+</a>
 
-### How to start this exercise
+### 🎯 What's Next?
 
-Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
+**Keep the momentum going!**
 
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=review-pull-requests&owner=%40me&name=skills-review-pull-requests&description=Exercise%3A+Review+pull+requests&visibility=public)
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/wolgank/skills-review-pull-requests/issues/1)
+[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills)
 
-<details>
-<summary>Having trouble? 🤷</summary><br/>
+*There's no better way to learn than building things!* 🚀
 
-When copying the exercise, we recommend the following settings:
+</div>
 
-- For owner, choose your personal account or an organization to host the repository.
-- We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-
-If the exercise isn't ready in 20 seconds:
-
-1. After your new repository is created, wait about 20 seconds, then refresh the page.
-2. Follow the step-by-step instructions in the issue created in your repository.
-3. If the page doesn't refresh automatically, please check the [Actions](../../actions) tab.
-   - Check to see if a job is running. Sometimes it simply takes a bit longer.
-   - If the page shows a failed job, please submit an issue. Nice, you found a bug! 🐛
-
-</details>
